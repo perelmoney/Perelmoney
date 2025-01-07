@@ -1,14 +1,14 @@
 {
-    "name": "Unit0 Sancho List",
-    "timestamp": "2025-01-07T10:30:00.000Z",
+    "name": "Unit0 Perelmoney List",
+    "timestamp": "2025-01-07T10:00:00.000Z",
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 3
+        "patch": 0
     },
     "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/ligebit/Sancho/refs/heads/main/sancho.png",
-    "keywords": ["unit0", "default"],
+    "logoURI": "https://raw.githubusercontent.com/perelmoney/Perelmoney/refs/heads/main/perelman_logo.png",
+    "keywords": ["unit0", "sancho", "prlm", "perelmoney"],
     "tokens": [
         {
             "chainId": 88811,
@@ -16,7 +16,7 @@
             "name": "Sancho",
             "symbol": "Sancho",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ligebit/Sancho/refs/heads/main/sancho.png"
+            "logoURI": "https://raw.githubusercontent.com/perelmoney/Perelmoney/refs/heads/main/sancho_logo.png"
         },
         {
             "chainId": 88811,
@@ -30,7 +30,8 @@
             "address": "0xb248aeac102501198d33433b7F75F9fDb839d1E6",
             "name": "Perelmoney",
             "symbol": "PRLM",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/perelmoney/Perelmoney/refs/heads/main/perelman_logo.png"
         },
         {
             "chainId": 88811,
