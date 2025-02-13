@@ -35,6 +35,22 @@
         },
         {
             "chainId": 88811,
+            "address": "0x6DFE63380149E04f4DD9BD7E8d892eEc28878556",
+            "name": "McSasha",
+            "symbol": "MCSASHA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/logo512.png"
+        },
+        {
+            "chainId": 88811,
+            "address": "0x487920d6462bb8EdBe0e0E67E6eAB04dC9174303",
+            "name": "McBurgers",
+            "symbol": "MCBURGERS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/deFIATer/mcsasha/refs/heads/main/mcburgers.png"
+        },
+        {
+            "chainId": 88811,
             "address": "0xEb19000D90f17FFbd3AD9CDB8915D928F4980fD1",
             "name": "USDCoin",
             "symbol": "USDC",
